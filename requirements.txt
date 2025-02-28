@@ -1,0 +1,3 @@
+echo "numpy
+pandas
+h5py" > requirements.txt
