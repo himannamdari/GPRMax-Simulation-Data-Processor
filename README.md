@@ -4,7 +4,8 @@
 This project automates the process of **reading, extracting, and saving Ez field data** from **gprMax simulations**. It converts **.out simulation files** into structured **CSV datasets** for further analysis.
 
 
-## Please cite: H. Namdari, M. Moradikia, S. Zekavat, R. Askari, O. Mangoubi and D. Petkie, "Advancing Precision Agriculture: Machine Learning-Enhanced GPR Analysis for Root-Zone Soil Moisture Assessment in Mega Farms," in IEEE Transactions on AgriFood Electronics, doi: 10.1109/TAFE.2024.3455238.
+## Please cite: 
+H. Namdari, M. Moradikia, S. Zekavat, R. Askari, O. Mangoubi and D. Petkie, "Advancing Precision Agriculture: Machine Learning-Enhanced GPR Analysis for Root-Zone Soil Moisture Assessment in Mega Farms," in IEEE Transactions on AgriFood Electronics, doi: 10.1109/TAFE.2024.3455238.
 keywords: {Feature extraction;Mathematical models;Data models;Soil moisture;Synthetic data;Moisture;Radar;Permittivity;Training;Soil measurements;Feature extraction;gprMAX simulations;ground penetration radar (GPR);machine learning (ML);root zone soil moisture estimation (SME)},
 
 
